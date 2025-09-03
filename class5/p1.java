@@ -1,3 +1,4 @@
+//function to multiply two numbers
 package class5;
 import java.util.Scanner;
 public class p1 {

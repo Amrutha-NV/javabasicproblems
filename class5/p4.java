@@ -1,5 +1,5 @@
 package class5;
-
+//implementation of prime or not using functions
 import java.util.Scanner;
 
 public class p4 {
